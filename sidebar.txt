@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aun:home|Door43 (aun)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aun|d43-aun repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aun/archive/master.zip|d43-aun.zip]]
+
+**Recent Changes**
+{{changes>ns = aun}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aun|Ethnologue data]]
+
